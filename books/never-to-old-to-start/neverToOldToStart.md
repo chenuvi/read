@@ -26,13 +26,13 @@
 ## 作品展示
 
 #### Winter Scene
-![Winter Scene](/images/winterScene.jpg)
+![Winter Scene](./images/winterScene.jpg)
 
 #### 　A Lake in the Woods
-![A Lake in the Woods](/images/aLakeInTheWoods.jpg)
+![A Lake in the Woods](./images/aLakeInTheWoods.jpg)
 
 #### Springtime Landscape
-![Springtime Landscape](/images/SpringtimeLandscape.jpg)
+![Springtime Landscape](./images/SpringtimeLandscape.jpg)
 
 ## 感悟
 
